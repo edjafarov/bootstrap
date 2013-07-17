@@ -4,8 +4,5 @@
   
   "styles":["docs/assets/css/bootstrap.css","docs/assets/css/bootstrap-responsive.css"],
   "files":["docs/assets/img/glyphicons-halflings-white.png",
-        "docs/assets/img/glyphicons-halflings.png"],
-  "dependencies": {
-    "component/jquery": "*"
-  }
+        "docs/assets/img/glyphicons-halflings.png"]
 }
