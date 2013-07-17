@@ -1,0 +1,1 @@
+module.exports = require('./docs/assets/js/bootstrap.js');
